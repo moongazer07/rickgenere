@@ -17,3 +17,11 @@ eg: making the password to weak, too short, very common, not keeping it safe and
 so stay safe and "live long and prosper",-spock
 
 _from moongazer 07
+
+credits got to EZice#4111 from discord for the decoder
+you can get in touch with me at
+discord: μmoongazer07#1200
+reddit: https://www.reddit.com/user/reditposter
+gmail: mailto:myboymohammed@gmail.com
+discord support/hangout server: discord.gg/mwdE4UsfwY
+my website: https://moongazer07.zedekhost.com
