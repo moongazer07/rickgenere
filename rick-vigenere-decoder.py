@@ -11,7 +11,7 @@ def rickgenere(pt, k):
       ct = ct + (d.get(d1.get(x+" ")))
     print("Using CipherText: ", ct)
 
-    #Vigenere Code FROM: https://www.codespeedy.com/vigenere-cipher-using-python/
+    
     decoded_chars = []
     orig_text = [] 
     for i in range(len(ct)): 
