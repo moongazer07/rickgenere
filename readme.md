@@ -18,6 +18,8 @@ so stay safe and "live long and prosper",-spock
 
 _from moongazer 07
 
+you can also use the encoder/decoder online here https://replit.com/@moongazer07/rickgenere?v=1
+
 credits got to EZice#4111 from discord for the decoder
 you can get in touch with me at
 discord: μmoongazer07#1200
